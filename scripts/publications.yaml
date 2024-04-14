@@ -1,0 +1,247 @@
+- title: Perception-Oriented Video Frame Interpolation via Asymmetric Blending
+  author: Guangyang Wu, Xin Tao, Changlin Li, Wenyi Wang, Xiaohong Liu, Qingqing Zheng
+  conference: IEEE Conference on Computer Vision and Pattern Recognition
+  conference_abbr: CVPR
+  year: 2024
+  teaser_url: https://placehold.co/400x285?text=To+Be+Updated
+  paper_url: http://www.cse.cuhk.edu.hk/~leojia/papers/mfsr_blur_cvpr15.pdf
+  arxiv_url: https://arxiv.org/abs/2404.06692
+
+- title: Feature Decoupling-Recycling Network for Fast Interactive Segmentation
+  author: Huimin Zeng, Weinong Wang, Xin Tao, Zhiwei Xiong, Yu-Wing Tai, Wenjie Pei
+  conference: ACM International Conference on Multimedia
+  conference_abbr: ACM MM
+  year: 2023
+  teaser_url: https://placehold.co/400x285?text=To+Be+Updated
+  paper_url: https://dl.acm.org/doi/abs/10.1145/3581783.3611837
+  arxiv_url: https://arxiv.org/abs/2308.03529
+
+- title: Scene-Generalizable Interactive Segmentation of Radiance Fields
+  author: Songlin Tang, Wenjie Pei, Xin Tao, Tanghui Jia, Guangming Lu, Yu-Wing Tai
+  conference: ACM International Conference on Multimedia
+  conference_abbr: ACM MM
+  year: 2023
+  teaser_url: https://placehold.co/400x285?text=To+Be+Updated
+  paper_url: https://dl.acm.org/doi/10.1145/3581783.3612246
+  arxiv_url: https://arxiv.org/abs/2308.05104
+
+- title: Compression-Aware Video Super-Resolution
+  author: Yingwei Wang, Takashi Isobe, Xu Jia, Xin Tao, Huchuan Lu, Yu-Wing Tai
+  conference: IEEE Conference on Computer Vision and Pattern Recognition
+  conference_abbr: CVPR
+  year: 2023
+  teaser_url: https://placehold.co/400x285?text=To+Be+Updated
+  paper_url: https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Compression-Aware_Video_Super-Resolution_CVPR_2023_paper.pdf
+
+- title: "DeViT: Deformed Vision Transformers in Video Inpainting"
+  author: Jiayin Cai, Changlin Li, Xin Tao, Chun Yuan, Yu-Wing Tai
+  conference: ACM International Conference on Multimedia
+  conference_abbr: ACM MM
+  year: 2022
+  teaser_url: https://placehold.co/400x285?text=To+Be+Updated
+  paper_url: https://dl.acm.org/doi/abs/10.1145/3503161.3548395
+  arxiv_url: https://arxiv.org/abs/2209.13925
+
+- title: "Look Back and Forth: Video Super-Resolution with Explicit Temporal Difference Modeling"
+  author: Takashi Isobe, Xu Jia, Xin Tao, Changlin Li, Ruihuang Li, Yongjie Shi, Jing Mu, Huchuan Lu, Yu-Wing Tai
+  conference: IEEE Conference on Computer Vision and Pattern Recognition
+  conference_abbr: CVPR
+  year: 2022
+  teaser_url: https://placehold.co/400x285?text=To+Be+Updated
+  project_url: https://github.com/junpan19/ETDM
+  paper_url: https://openaccess.thecvf.com/content/CVPR2022/papers/Isobe_Look_Back_and_Forth_Video_Super-Resolution_With_Explicit_Temporal_Difference_CVPR_2022_paper.pdf
+  arxiv_url: https://arxiv.org/abs/2204.07114
+
+- title: Text-guided Human Image Manipulation via Image-text Shared Space
+  author: Xiaogang Xu, Ying-Cong Chen, Xin Tao, Jiaya Jia
+  conference: IEEE Transactions on Pattern Analysis and Machine Intelligence
+  conference_abbr: TPAMI
+  year: 2021
+  teaser_url: https://placehold.co/400x285?text=To+Be+Updated
+  project_url: https://github.com/xiaogang00/Text-Human-Image-Manipulation
+  paper_url: https://ieeexplore.ieee.org/document/9444850
+
+- title: "MASA-SR: Matching Acceleration and Spatial Adaptation for Reference-Based Image Super-Resolution"
+  author: Liying Lu, Wenbo Li, Xin Tao, Jiangbo Lu, Jiaya Jia
+  conference: IEEE Conference on Computer Vision and Pattern Recognition
+  conference_abbr: CVPR
+  year: 2021
+  teaser_url: https://placehold.co/400x285?text=To+Be+Updated
+  project_url: https://github.com/dvlab-research/MASA-SR
+  paper_url: https://openaccess.thecvf.com/content/CVPR2021/papers/Lu_MASA-SR_Matching_Acceleration_and_Spatial_Adaptation_for_Reference-Based_Image_Super-Resolution_CVPR_2021_paper.pdf
+  arxiv_url: https://arxiv.org/abs/2106.02299
+
+- title: "VCNet: A Robust Approach to Blind Image Inpainting"
+  author: Yi Wang, Ying-Cong Chen, Xin Tao, Jiaya Jia
+  conference: European Conference on Computer Vision
+  conference_abbr: ECCV
+  year: 2020
+  teaser_url: https://placehold.co/400x285?text=To+Be+Updated
+  project_url: https://github.com/shepnerd/blindinpainting_vcnet
+  arxiv_url: https://arxiv.org/abs/2003.06816
+
+- title: "MuCAN: Multi-Correspondence Aggregation Network for Video Super-Resolution"
+  author: Wenbo Li, Xin Tao, Taian Guo, Lu Qi, Jiangbo Lu, Jiaya Jia
+  conference: European Conference on Computer Vision
+  conference_abbr: ECCV
+  year: 2020
+  teaser_url: https://placehold.co/400x285?text=To+Be+Updated
+  project_url: https://github.com/dvlab-research/Simple-SR
+  paper_url: https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550341.pdf
+  arxiv_url: https://arxiv.org/abs/2007.11803
+
+- title: "Particularity beyond Commonality: Unpaired Identity Transfer with Multiple References"
+  author: Ruizheng Wu, Xin Tao, Yingcong Chen, Xiaoyong Shen, Jiaya Jia
+  conference: European Conference on Computer Vision
+  conference_abbr: ECCV
+  year: 2020
+  teaser_url: https://placehold.co/400x285?text=To+Be+Updated
+  project_url: https://www.yingcong.me/publication/2020-wu-particularity/
+  paper_url: https://jiaya.me/file/papers/idtransfer_eccv20.pdf
+
+- title: Wide-context semantic image extrapolation
+  author: Yi Wang, Xin Tao, Xiaoyong Shen, Jiaya Jia
+  conference: IEEE Conference on Computer Vision and Pattern Recognition
+  conference_abbr: CVPR
+  year: 2019
+  teaser_url: https://placehold.co/400x285?text=To+Be+Updated
+  project_url: https://github.com/dvlab-research/outpainting_srn
+  paper_url: http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Wide-Context_Semantic_Image_Extrapolation_CVPR_2019_paper.pdf
+
+- title: Attribute-Driven Spontaneous Motion in Unpaired Image Translation
+  author: Ruizheng Wu, Xin Tao, Xiaodong Gu, Xiaoyong Shen, Jiaya Jia
+  conference: IEEE International Conference on Computer Vision
+  conference_abbr: ICCV
+  year: 2019
+  teaser_url: projects/imgtrans/teaser.png
+  project_url: https://jiangsutx.github.io/
+  paper_url: https://openaccess.thecvf.com/content_ICCV_2019/papers/Wu_Attribute-Driven_Spontaneous_Motion_in_Unpaired_Image_Translation_ICCV_2019_paper.pdf
+  arxiv_url: https://arxiv.org/abs/1907.01452
+
+- title: Dynamic Scene Deblurring with Parameter Selective Sharing and Nested Skip Connections
+  author: Hongyun Gao, Xin Tao, Xiaoyong Shen, Jiaya Jia
+  conference: IEEE Conference on Computer Vision and Pattern Recognition
+  conference_abbr: CVPR
+  year: 2019
+  teaser_url: projects/pssnscdeblur/teaser.png
+  project_url: https://github.com/firenxygao/deblur
+  paper_url: https://jiangsutx.github.io/projects/pssnscdeblur/deblur_cvpr19.pdf
+
+- title: Semantic Regeneration Network
+  author: Yi Wang, Xin Tao, Xiaoyong Shen, Jiaya Jia
+  conference: IEEE Conference on Computer Vision and Pattern Recognition
+  conference_abbr: CVPR
+  year: 2019
+  teaser_url: projects/srninpaint/teaser.png
+  project_url: https://github.com/shepnerd/outpainting_srn
+  paper_url: https://jiangsutx.github.io/projects/srninpaint/imgextrapolation_cvpr19.pdf
+
+- title: Image Inpainting via Generative Multi-column Convolutional Neural Networks
+  author: Yi Wang, Xin Tao, Xiaojuan Qi, Xiaoyong Shen, Jiaya Jia
+  conference: Conference on Neural Information Processing Systems
+  conference_abbr: NeuIPS
+  year: 2018
+  teaser_url: projects/gmcinpaint/teaser.png
+  project_url: https://github.com/shepnerd/inpainting_gmcnn
+  arxiv_url: https://arxiv.org/abs/1810.08771
+
+- title: Scale-recurrent Network for Deep Image Deblurring
+  author: Xin Tao, Hongyun Gao, Xiaoyong Shen, Jue Wang, Jiaya Jia
+  conference: IEEE Conference on Computer Vision and Pattern Recognition
+  conference_abbr: CVPR
+  year: 2018
+  teaser_url: projects/srndeblur/teaser.png
+  project_url: https://github.com/jiangsutx/SRN-Deblur
+  paper_url: https://jiangsutx.github.io/projects/srndeblur/srndeblur_cvpr18.pdf
+  arxiv_url: https://arxiv.org/abs/1802.01770
+
+- title: Facelet-Bank for Fast Portrait Manipulation
+  author: Ying-Cong Chen, Huaijia Lin, Michelle Shu, Ruiyu Li, Xin Tao, Xiaoyong Shen, Yangang Ye, Jiaya Jia
+  conference: IEEE Conference on Computer Vision and Pattern Recognition
+  conference_abbr: CVPR
+  year: 2018
+  teaser_url: https://jiangsutx.github.io/projects/facelet/teaser.png
+  project_url: https://github.com/yingcong/Facelet_Bank
+  arxiv_url: https://arxiv.org/abs/1803.05576
+
+- title: Zero-order Reverse Filtering
+  author: Xin Tao, Chao Zhou, Xiaoyong Shen, Jue Wang, Jiaya Jia
+  conference: IEEE International Conference on Computer Vision
+  conference_abbr: ICCV
+  year: 2017
+  teaser_url: projects/defilter/teaser.png
+  project_url: https://github.com/jiangsutx/DeFilter
+  paper_url: https://jiangsutx.github.io/projects/defilter/filter_reverse_iccv17.pdf
+  arxiv_url: https://arxiv.org/abs/1704.04037
+
+- title: Detail-revealing Deep Video Super-resolution
+  author: Xin Tao, Hongyun Gao, Renjie Liao, Jue Wang, Jiaya Jia
+  conference: IEEE International Conference on Computer Vision
+  conference_abbr: ICCV
+  year: 2017
+  oral: Oral
+  teaser_url: projects/spmc/teaser.png
+  project_url: https://github.com/jiangsutx/SPMC_VideoSR
+  paper_url: https://jiangsutx.github.io/projects/spmc/spmc_videosr_iccv17.pdf
+  arxiv_url: https://arxiv.org/abs/1704.02738
+
+- title: High-Quality Correspondence and Segmentation Estimation for Dual-Lens Smart-Phone Portraits
+  author: Xiaoyong Shen, Hongyun Gao, Xin Tao, Chao Zhou,Jiaya Jia
+  conference: IEEE International Conference on Computer Vision
+  conference_abbr: ICCV
+  year: 2017
+  teaser_url: https://placehold.co/400x285?text=To+Be+Updated
+  arxiv_url: https://arxiv.org/abs/1704.02205
+
+- title: Regional Foremost Matching for Internet Images
+  author: Xiaoyong Shen, Xin Tao, Chao Zhou, Hongyun Gao, Jiaya Jia
+  conference: ACM Transactions on Graphics
+  conference_abbr: Proc. SIGGRAPH ASIA
+  year: 2016
+  teaser_url: https://placehold.co/400x285?text=To+Be+Updated
+  paper_url: http://www.cse.cuhk.edu.hk/leojia/papers/foremost_matching_sa16.pdf
+
+- title: Deep Automatic Portrait Matting
+  author: Xiaoyong Shen, Xin Tao, Hongyun Gao, Chao Zhou, Jiaya Jia
+  conference: European Conference on Computer Vision
+  conference_abbr: ECCV
+  year: 2016
+  oral: Spotlight
+  teaser_url: https://placehold.co/400x285?text=To+Be+Updated
+  paper_url: http://xiaoyongshen.me/papers/deepmatting.pdf
+
+- title: "Break Ames Room Illusion: Depth from General Single Images"
+  author: Jianping Shi, Xin Tao, Li Xu, Jiaya Jia
+  conference: ACM Transactions on Graphics
+  conference_abbr: Proc. SIGGRAPH ASIA
+  year: 2015
+  teaser_url: http://www.cse.cuhk.edu.hk/~leojia/images/depthsingle.jpg
+  project_url: http://www.cse.cuhk.edu.hk/~leojia/projects/sblurdetect/index.html
+  paper_url: http://www.cse.cuhk.edu.hk/~leojia/papers/blurestimate_sa15.pdf
+
+- title: Video Super-Resolution via Deep Draft-Ensemble Learning
+  author: Renjie Liao, Xin Tao, Ruiyu Li, Ziyang Ma, Jiaya Jia
+  conference: IEEE International Conference on Computer Vision
+  conference_abbr: ICCV
+  year: 2015
+  teaser_url: http://www.cse.cuhk.edu.hk/~leojia/images/videosuper.jpg
+  project_url: http://www.cse.cuhk.edu.hk/~leojia/projects/DeepSR/index.html
+  paper_url: http://www.cse.cuhk.edu.hk/~leojia/papers/videosr_iccv15.pdf
+
+- title: Handling Motion Blur in Multi-Frame Super-Resolution
+  author: Ziyang Ma, Renjie Liao, Xin Tao, Li Xu, Jiaya Jia, Enhua Wu
+  conference: IEEE Conference on Computer Vision and Pattern Recognition
+  conference_abbr: CVPR
+  year: 2015
+  teaser_url: http://www.cse.cuhk.edu.hk/~leojia/images/mfsr.jpg
+  project_url: http://www.cse.cuhk.edu.hk/~leojia/projects/mfsr/index.html
+  paper_url: http://www.cse.cuhk.edu.hk/~leojia/papers/mfsr_blur_cvpr15.pdf
+
+- title: Inverse Kernels for Fast Spatial Deconvolution
+  author: Li Xu, Xin Tao, Jiaya Jia
+  conference: European Conference on Computer Vision
+  conference_abbr: ECCV
+  year: 2014
+  teaser_url: http://www.cse.cuhk.edu.hk/~leojia/images/inversekernel.jpg
+  project_url: https://example.com/project2
+  paper_url: http://www.cse.cuhk.edu.hk/~leojia/papers/inversekernel_eccv14.pdf
