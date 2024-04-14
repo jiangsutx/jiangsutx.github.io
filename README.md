@@ -1,2 +1,2 @@
-mygithubpage
+This is my homepage
 ============
